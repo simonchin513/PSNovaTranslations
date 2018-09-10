@@ -396,7 +396,7 @@
   },
   "510035": {
     "OriginalText": "天才発明家",
-    "Text": "",
+    "Text": "Genius Inventor",
     "Enabled": false
   },
   "510036": {
@@ -1056,7 +1056,7 @@
   },
   "510167": {
     "OriginalText": "初志貴徹",
-    "Text": "",
+    "Text": "Determined",
     "Enabled": false
   },
   "510168": {
@@ -1111,7 +1111,7 @@
   },
   "510178": {
     "OriginalText": "暴走超特急",
-    "Text": "",
+    "Text": "Raging Violent",
     "Enabled": false
   },
   "510179": {
@@ -1126,7 +1126,7 @@
   },
   "510181": {
     "OriginalText": "隠れた英雄",
-    "Text": "",
+    "Text": "Hidden Hero",
     "Enabled": false
   },
   "510182": {
@@ -1271,7 +1271,7 @@
   },
   "520028": {
     "OriginalText": "友情に熱い",
-    "Text": "",
+    "Text": "Passionate Friend",
     "Enabled": false
   },
   "520029": {
@@ -1451,7 +1451,7 @@
   },
   "520072": {
     "OriginalText": "落ち込みやすい",
-    "Text": "",
+    "Text": "Easily Depressed",
     "Enabled": false
   },
   "520073": {
@@ -1636,7 +1636,7 @@
   },
   "520125": {
     "OriginalText": "見習い鍛冶職人",
-    "Text": "",
+    "Text": "Novice Blacksmith",
     "Enabled": false
   },
   "520126": {
@@ -1651,7 +1651,7 @@
   },
   "520128": {
     "OriginalText": "噂の鍛冶職人",
-    "Text": "",
+    "Text": "Legendary Blacksmith",
     "Enabled": false
   },
   "520129": {
@@ -1671,22 +1671,22 @@
   },
   "520136": {
     "OriginalText": "鉄の防具職人",
-    "Text": "",
+    "Text": "Iron Blacksmith",
     "Enabled": false
   },
   "520137": {
     "OriginalText": "銅の防具職人",
-    "Text": "",
+    "Text": "Copper Blacksmith",
     "Enabled": false
   },
   "520138": {
     "OriginalText": "銀の防具職人",
-    "Text": "",
+    "Text": "Silver Blacksmith",
     "Enabled": false
   },
   "520139": {
     "OriginalText": "金の防具職人",
-    "Text": "",
+    "Text": "Golden Blacksmith",
     "Enabled": false
   },
   "520140": {
@@ -1746,17 +1746,17 @@
   },
   "520161": {
     "OriginalText": "おしゃれ泥棒",
-    "Text": "",
+    "Text": "Fashionable Thief",
     "Enabled": false
   },
   "520162": {
     "OriginalText": "おしゃれ大泥棒",
-    "Text": "",
+    "Text": "Fashionable Grand Thief",
     "Enabled": false
   },
   "520163": {
     "OriginalText": "おしゃれ怪盗",
-    "Text": "",
+    "Text": "Fashionable Pirate",
     "Enabled": false
   },
   "520164": {
@@ -1846,7 +1846,7 @@
   },
   "520184": {
     "OriginalText": "現実的",
-    "Text": "",
+    "Text": "Realistic",
     "Enabled": false
   },
   "520185": {
@@ -1956,82 +1956,82 @@
   },
   "520216": {
     "OriginalText": "Gブースターランク1適応地路",
-    "Text": "",
+    "Text": "G-Booster Rank 1 (Ground Type)",
     "Enabled": false
   },
   "520217": {
     "OriginalText": "Gブースターランク2適応地路",
-    "Text": "",
+    "Text": "G-Booster Rank 2 (Ground Type)",
     "Enabled": false
   },
   "520218": {
     "OriginalText": "Gブースターランク3適応地路",
-    "Text": "",
+    "Text": "G-Booster Rank 3 (Ground Type)",
     "Enabled": false
   },
   "520219": {
     "OriginalText": "Gブースターランク4適応地路",
-    "Text": "",
+    "Text": "G-Booster Rank 4 (Ground Type)",
     "Enabled": false
   },
   "520220": {
     "OriginalText": "Gブースターランク5適応地路",
-    "Text": "",
+    "Text": "G-Booster Rank 5 (Ground Type)",
     "Enabled": false
   },
   "520221": {
     "OriginalText": "Gブースター支援効果+0",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+0",
     "Enabled": false
   },
   "520222": {
     "OriginalText": "Gブースター支援効果+1",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+1",
     "Enabled": false
   },
   "520223": {
     "OriginalText": "Gブースター支援効果+2",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+2",
     "Enabled": false
   },
   "520224": {
     "OriginalText": "Gブースター支援効果+3",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+3",
     "Enabled": false
   },
   "520225": {
     "OriginalText": "Gブースター支援効果+4",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+4",
     "Enabled": false
   },
   "520226": {
     "OriginalText": "Gブースター支援効果+5",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+5",
     "Enabled": false
   },
   "520227": {
     "OriginalText": "Gブースター支援効果+6",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+6",
     "Enabled": false
   },
   "520228": {
     "OriginalText": "Gブースター支援効果+7",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+7",
     "Enabled": false
   },
   "520229": {
     "OriginalText": "Gブースター支援効果+8",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+8",
     "Enabled": false
   },
   "520230": {
     "OriginalText": "Gブースター支援効果+9",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+9",
     "Enabled": false
   },
   "520231": {
     "OriginalText": "Gブースター支援効果+10",
-    "Text": "",
+    "Text": "G-Booster Assist Effect+10",
     "Enabled": false
   },
   "520232": {
@@ -2121,57 +2121,57 @@
   },
   "520249": {
     "OriginalText": "Eレーダーランク1適応地路",
-    "Text": "",
+    "Text": "E-Radar Rank 1 (Ground Type)",
     "Enabled": false
   },
   "520250": {
     "OriginalText": "Eレーダーランク2適応地路",
-    "Text": "",
+    "Text": "E-Radar Rank 2 (Ground Type)",
     "Enabled": false
   },
   "520251": {
     "OriginalText": "Eレーダーランク3適応地路",
-    "Text": "",
+    "Text": "E-Radar Rank 3 (Ground Type)",
     "Enabled": false
   },
   "520252": {
     "OriginalText": "Eレーダーランク4適応地路",
-    "Text": "",
+    "Text": "E-Radar Rank 4 (Ground Type)",
     "Enabled": false
   },
   "520253": {
     "OriginalText": "Eレーダーランク5適応地路",
-    "Text": "",
+    "Text": "E-Radar Rank 5 (Ground Type)",
     "Enabled": false
   },
   "520254": {
     "OriginalText": "Eレーダー支援効果+0",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+0",
     "Enabled": false
   },
   "520255": {
     "OriginalText": "Eレーダー支援効果+1",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+1",
     "Enabled": false
   },
   "520256": {
     "OriginalText": "Eレーダー支援効果+2",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+2",
     "Enabled": false
   },
   "520257": {
     "OriginalText": "Eレーダー支援効果+3",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+3",
     "Enabled": false
   },
   "520258": {
     "OriginalText": "Eレーダー支援効果+4",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+4",
     "Enabled": false
   },
   "520259": {
     "OriginalText": "Eレーダー支援効果+5",
-    "Text": "",
+    "Text": "E-Radar Assist Effect+5",
     "Enabled": false
   },
   "520260": {
@@ -2251,22 +2251,22 @@
   },
   "530003": {
     "OriginalText": "わたしの力がお役に立てるのでしたら、\n精一杯頑張ります。",
-    "Text": "",
+    "Text": "If I am able to help,\nI'll do it.",
     "Enabled": false
   },
   "530005": {
     "OriginalText": "おっしゃーオレも戦場に出るぜ！！\nお前連れてけよー！",
-    "Text": "",
+    "Text": "Alright, I'll go and fight too!!\nFollow me!",
     "Enabled": false
   },
   "530006": {
     "OriginalText": "私の力が必要ですか？\n君の頼みならば断りませんよ。",
-    "Text": "",
+    "Text": "Do you need a hand?\nI will not reject your request.",
     "Enabled": false
   },
   "530009": {
     "OriginalText": "仕事か？\n別に同行するのは構わない。",
-    "Text": "",
+    "Text": "Another work?\nI wouldn't mind to do it together.",
     "Enabled": false
   },
   "530010": {
@@ -2276,7 +2276,7 @@
   },
   "530011": {
     "OriginalText": "皆さん、このような環境です。\n怪我、病気に気を付けてくださいね。",
-    "Text": "",
+    "Text": "Everyone, this is the type of environment we'll be working on.\nBeware and take care of yourself.",
     "Enabled": false
   },
   "530012": {
